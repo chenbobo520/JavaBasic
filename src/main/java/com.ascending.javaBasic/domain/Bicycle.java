@@ -24,6 +24,6 @@ public class Bicycle extends Bike {
         System.out.println(baby.getPedalNum());
         System.out.println(baby.getbrandName());
 
-    }
+    } 
 
 }
